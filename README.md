@@ -12,5 +12,4 @@
 
 **Сайт**
 
-* [Ссылка на сайт]
-
+* [[Ссылка на сайт]](https://frndlymilk.github.io/russian-travel/index.html)
